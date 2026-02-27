@@ -1,8 +1,8 @@
 # Multi-Class Cyber Attack Detection on IoT Network Traffic Using a Lightweight Transformer with SHAP-Based Explainable AI
 
-**Authors:** [Author Name(s)]
-**Affiliation:** [University / Institution]
-**Email:** [author@email.com]
+**Authors:** [Ritik Chauhan]
+**Affiliation:** [University School of ICT,Gautam Buddha University]
+**Email:** [215ics016@gbu.ac.in]
 
 ---
 
@@ -494,3 +494,4 @@ Future work will pursue: (i) **class-weighted training** and SMOTE oversampling 
 ---
 
 *Manuscript submitted for review. All experimental results reported are derived from actual training logs, timing data, and evaluation outputs. No results have been fabricated or estimated.*
+
